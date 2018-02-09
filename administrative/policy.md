@@ -60,6 +60,7 @@
 * Проверить привязку email к гитхабу(стажер)
 	![Email](https://api.monosnap.com/rpc/file/download?id=ISWWozjdWQTbDIw6E5R1ZulOIfF4lA)
 * Добавление в Slack(ментор)
+* Добавление в ZenHub(ментор)
 * Установить реальное имя в Slack и GitHub(стажер)
 * Запустить проекты локально(стажер)
 * Взять первую задачу(стажер)
