@@ -1,7 +1,9 @@
-# bootcamp-docs
+# bootcamp-wiki
+
 All documents related to our initiative
 
-* [Bootcamp policy](https://github.com/howtohireme/bootcamp-docs/blob/master/administrative/policy.md)
-* [Tasks workflow](https://github.com/howtohireme/bootcamp-docs/blob/master/administrative/workflow.md)
-* [Git cheatsheet](https://gist.github.com/Mehonoshin/9871192)
-* [Test task Gist](https://gist.github.com/Mehonoshin/4c239ea364fe458ef844e3984b757cf6)
+* [Home](https://github.com/howtohireme/wiki/wiki)
+* [About](https://github.com/howtohireme/wiki/wiki/About)
+* [Onboarding](https://github.com/howtohireme/wiki/wiki/Onboarding)
+* [Terms and Rules](https://github.com/howtohireme/wiki/wiki/Terms-and-Rules)
+* [First Steps](https://github.com/howtohireme/wiki/wiki/First-Steps)
